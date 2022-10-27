@@ -18,7 +18,7 @@ title: "InnerSource Commons"
   <div class="container">
     <div class="row align-items-center mb-3">
       <div class="col-md-9">
-        <img src="/images/logo-big.png" class="img-fluid logo-home pr-5" style="float: left;">
+        <img src="/ospoplusplus/images/logo-big.png" class="img-fluid logo-home pr-5" style="float: left;">
         <p>{{< about-text >}}
         </p>
       </div>
