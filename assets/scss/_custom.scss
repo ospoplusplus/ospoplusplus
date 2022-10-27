@@ -1,0 +1,288 @@
+// This file is empty within the template
+// You can use it to override CSS from within your project
+a, .content a {
+    color: #0aa8a7;
+    border-bottom: 1px dotted #ececec;
+}
+
+a:hover, .content a:hover {
+    color: #0aa8a7;
+    border-bottom: 1px solid #ececec;
+}
+
+.card a, .navbar a, a.post-title, footer.section a {
+    border: none;
+}
+
+.time{ width:12% }
+
+.author{ width:25% }
+
+.notice {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.section-first {
+    padding-top: 20px;
+}
+
+.section-last {
+    padding-top: 0;
+}
+
+.section-small {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.banner {
+    padding: 50px 0 50px;
+}
+
+.navbar-nav {
+    flex-direction: row;
+}
+
+.btn {
+    text-transform: none;
+}
+
+ol.breadcrumb {
+    background: none;
+}
+
+.breadcrumb a {
+    color: $primary-color;
+}
+
+.float-right {
+    float: right;
+}
+
+.float-left {
+    float: left;
+}
+
+.mh-300 {
+    max-height: 300px;
+}
+
+.mh-150 {
+    max-height: 150px;
+}
+
+.h-150 {
+    height: 150px;
+}
+
+.contributor {
+    width: 50px;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding: 17px;
+    display: inline;
+}
+
+.navbar-expand-lg .navbar-nav .nav-with-toggle {
+    padding-right: 3px;
+}
+
+.dropdown-toggle {
+    padding-right: 7px;
+}
+
+.banner-head {
+    padding-bottom: 0;
+}
+
+.mailing-box {
+    background: #fff;
+    padding: 15px 30px;
+    border-radius: 15px;
+}
+
+.mailing-box-light {
+    background: #edf6f5;
+    min-width: 250px;
+}
+
+.mailing-box-button-light {
+    margin-top: 5px;
+}
+
+.logo-home {
+    max-height: 260px;
+    float: right;
+}
+[class*=" ti-"], [class^=ti-] {
+    vertical-align: -10%;
+}
+
+.not-found {
+    position: relative;
+    top: -100px;
+}
+
+.speaker-photo {
+    float: left;
+    margin-right: 50px;
+}
+
+.quizdown-progress, .quizdown-credits, .svelte-1l9r9uu, .quizdown-button-row span {
+    display: none;
+}
+
+.quizdown-content {
+    font-family: inherit;
+}
+
+.quizdown-headline.svelte-gxmql3 {
+    background: none;
+    transform: none;
+    width: 100%;
+    height: inherit;
+    margin: auto;
+    margin-top: 0;
+    margin-bottom: 1em;
+}
+
+[type='checkbox'].svelte-pv412u:checked+span.svelte-pv412u.svelte-pv412u,
+    [type='radio'].svelte-pv412u:checked+span.svelte-pv412u.svelte-pv412u {
+    color: white;
+}
+
+[type='checkbox'].svelte-pv412u+span.svelte-pv412u.svelte-pv412u,
+    [type='radio'].svelte-pv412u+span.svelte-pv412u.svelte-pv412u {
+    font-size: 16px;
+    font-family: pt sans,sans-serif;
+    font-weight: 600;
+    padding: 15px 30px;
+    border-radius: 30px;
+    border: 0;
+    position: relative;
+    z-index: 1;
+    transition: .2s ease;
+    color: #212529;
+    background-color: #f8f9fa;
+    box-shadow: none;
+}
+
+[type='checkbox'].svelte-pv412u:hover:not(:active)+span.svelte-pv412u.svelte-pv412u,
+[type='radio'].svelte-pv412u:hover:not(:active)+span.svelte-pv412u.svelte-pv412u {
+    filter: none;
+    color:#212529;
+    background-color:#e2e6ea;
+    border-color:#dae0e5
+}
+
+.svelte-pv412u {
+    cursor: pointer;
+    margin-bottom: 0;
+}
+
+button.svelte-la9dd4 {
+    font-size: 16px;
+    font-family: pt sans,sans-serif;
+    font-weight: 600;
+    padding: 15px 30px;
+    border-radius: 30px;
+    border: 0;
+    position: relative;
+    z-index: 1;
+    transition: .2s ease;
+    background-color: #0aa8a7;
+    color: #fff;
+    box-shadow: none;
+    height: inherit;
+}
+
+button.svelte-la9dd4::before{
+    position:absolute;
+    content:"";
+    height:100%;
+    width:100%;
+    top:50%;
+    left:50%;
+    transform:translate(-50%,-50%);
+    z-index:-1;
+    border-radius:inherit;
+    transition:inherit;
+    background-color:inherit;
+    border:1px solid transparent
+}
+
+button.svelte-la9dd4:hover, button.svelte-la9dd4:active, button.svelte-la9dd4:focus {
+    outline: 0
+}
+
+button.svelte-la9dd4:hover::before,button.svelte-la9dd4:active::before,button.svelte-la9dd4:focus::before {
+    height:110%;
+    width:110%
+}
+
+button.svelte-la9dd4:disabled {
+    display: none;
+}
+
+.event-card-text {
+    height: 150px;
+    overflow: hidden;
+}
+
+.cite-icons {
+    height: 30px;
+}
+
+.cite-icons i {
+    color: #adadad;
+}
+
+.cite-icons i:hover {
+    color: #0aa8a7;
+}
+
+.cite-text {
+    display: none;
+}
+
+.company-logo-box {
+    position: relative;
+
+    img {
+      margin-bottom: 0;
+    }
+
+    div {
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      opacity: 0;
+    }
+}
+
+.board-profile {
+    filter: grayscale(100%) brightness(105%);
+    display: inline-block;
+    position: relative;
+}
+
+.board-profile img {
+    border-radius: 45px;
+}
+
+// Experiment:
+// Adding a color filter to the images, to create a more cohesive look.
+// Source: https://www.webascender.com/blog/use-css-image-filters-create-cohesive-look-feel-website/
+// .board-profile::before {
+//     // #077877
+//     background: rgba(7, 120, 109, 0.23);
+//     content: "";
+//     height: 100%;
+//     left: 0;
+//     position: absolute;
+//     top: 0;
+//     width: 100%;
+// }
