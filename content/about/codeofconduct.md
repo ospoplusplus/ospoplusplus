@@ -1,5 +1,5 @@
 ---
-title: "InnerSource Commons Code of Conduct"
+title: "OSPO++ Commons Code of Conduct"
 subtitle: ""
 description: "The InnerSource Commons is a growing community of practitioners with the goal of creating and sharing knowledge about InnerSource."
 draft: false

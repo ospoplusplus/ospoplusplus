@@ -1,61 +1,44 @@
 baseURL:  'https://ospoplusplus.github.io/ospoplusplus/'
-title: InnerSource Commons
+title: OSPO++
+buildFuture: true
+summaryLength: 10
 
 pluralizeListTitles: false
 menu:
   main:
-    - name: Learn
-      URL: learn
+    - name: Community
+      identifier: community
       weight: 1
-      identifier: learn
-    - name: Books
-      parent: learn
-      URL: learn/books
+      hasChildren: true
+    - name: Join OSPO++
+      URL: joinospo
+      parent: community
+      weight: 1
+    - name: US Open Source Policy
+      URL: community/policy
+      parent: community
       weight: 2
-    - name: Learning Path
-      parent: learn
-      URL: learn/learning-path
-      weight: 3
-    - name: Patterns
-      parent: learn
-      URL: learn/patterns
-      weight: 4
-    - name: Research
-      parent: learn
-      URL: learn/research
-      weight: 5
     - name: Events
       URL: events
       weight: 2
-    - name: Community
-      identifier: community
-      URL: community
+    - name: Resources
+      URL: resource
       weight: 3
-    - name: Stories
-      URL: stories
-      weight: 4
-    - name: Services Directory
-      URL: community/services
-      parent: community
-      weight: 2
+      identifier: resource
     - name: About
+      hasChildren: true
       identifier: about
-      URL: about
-      weight: 5
-    - name: Announcements
-      URL: about/announcements
+      weight: 4
+    - name: About OSPO++
+      URL: about/about-ospo
       parent: about
       weight: 1
-    - name: Board & Governance
-      URL: about/board
-      parent: about
-      weight: 2
     - name: Members
       URL: about/members
       parent: about
-      weight: 3
-    - name: Sponsors
-      URL: about/sponsors
+      weight: 2
+    - name: OSPO++ Team
+      URL: about/team
       parent: about
       weight: 4
     - name: Code of Conduct
@@ -175,12 +158,13 @@ params:
       - link: plugins/slick/slick.min.js
       - link: plugins/youmax/youmax.js
       - link: plugins/bootstrap-select/js/bootstrap-select.min.js
-  logo: images/logo.png
-  logo_width: 200px
+  logo: /ospoplusplus/images/logo2.png
+  home: "Home"
+  logo_width: 100px
   themeVariant: quizdown
   description: The InnerSource Commons is a growing community of practitioners with the goal of creating and sharing knowledge about InnerSource.
   author: InnerSource Commons
-  defaultImage: images/logo.png
+  defaultImage: /ospoplusplus/images/logo2.png
   footer_content: >-
     The site is licensed under a CC-BY-SA license unless otherwise marked.
   copyright: >-

@@ -1,0 +1,41 @@
+{{ define "main" }}
+
+{{ partial "breadcrumbs.html" . }}
+{{ partial "page-header.html" . }}
+
+
+<!-- joinospo -->
+<section class="section">
+  <div class="container">
+    <div class="row">
+      {{ with .Site.Data.joinospo.description }}
+      <div class="col-lg-10 mx-auto text-center">
+        <h2>{{ .title | markdownify }}</h2>
+        <p class="lead">{{ .subtitle | markdownify}}</p>
+        <div class="section-border"></div>
+      </div>
+      {{ end }}
+    </div>
+
+    <div class="row">
+      {{ range .Site.Data.joinospo.services }}
+      <div class="col-lg-4 col-sm-6 mb-4">
+        <div class="card border-0 hover-bg-secondary shadow py-4">
+          <div class="card-body text-center">
+            <div class="position-relative">
+              <i class="icon-lg icon-box bg-gradient-primary rounded-circle {{ .icon }} mb-5 d-inline-block text-white"></i>
+              <i class="icon-lg icon-watermark text-white {{ .icon }}"></i>
+            </div>
+            <h4 class="mb-4">{{ .title | markdownify }}</h4>
+            <p>{{ .content | markdownify }}</p>
+          </div>
+        </div>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+<!-- /joinospo -->
+
+
+{{ end }}

@@ -116,6 +116,10 @@ a:hover {
   background-color: $light !important;
 }
 
+.bg-members-box {
+  background-color: $members-box !important;
+}
+
 .text-primary {
   color: $primary-color !important;
 }
@@ -124,32 +128,46 @@ a:hover {
   border-radius: 10px !important;
 }
 
-.shadow{
-  box-shadow: 0 12px 24px -6px rgba(45,67,121,.10) !important;
+.shadow {
+  box-shadow: 0px 46px 65px 0px rgba(181, 188, 236, 0.16) !important;
 }
 
-// form control
 
+/* form control */
 .form-control {
+  height: 50px;
+  border-radius: 0;
+  border: 0;
+  border-bottom: 1px solid $border-color;
+
   &:focus {
-    outline: 0;
+    box-shadow: none !important;
     border-color: $primary-color;
-    box-shadow: none;
   }
-
-  &::placeholder {
-    color: $text-color;
-  }
-}
-
-textarea.form-control {
-  height: 100px !important;
 }
 
 .list-unstyled{
   li{
     margin-bottom: 10px;
   }
+}
+
+.bg-gradient-primary {
+  background: $primary-gradient !important;
+}
+
+.section-border {
+  height: 9px;
+  width: 220px;
+  background: $primary-gradient;
+  border-radius: 5px;
+  margin: 40px auto 90px;
+}
+
+.text-gradient-primary {
+  background: $primary-gradient;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
 .check-mark{
@@ -171,3 +189,115 @@ textarea.form-control {
     top: 3px;
   }
 }
+
+.overlay {
+  position: relative;
+
+  &::before {
+    position: absolute;
+    content: '';
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    background: $black;
+    opacity: .8;
+  }
+
+  &-primary {
+    position: relative;
+
+    &::before {
+      position: absolute;
+      content: '';
+      height: 100%;
+      width: 100%;
+      top: 0;
+      left: 0;
+      background: $primary-color;
+      opacity: .8;
+    }
+  }
+
+  &-secondary {
+    position: relative;
+
+    &::before {
+      position: absolute;
+      content: '';
+      height: 100%;
+      width: 100%;
+      top: 0;
+      left: 0;
+      background: $secondary-color;
+      opacity: .8;
+    }
+  }
+
+  &-secondary-half {
+    position: relative;
+
+    &::before {
+      position: absolute;
+      content: '';
+      height: 100%;
+      width: 100%;
+      top: 0;
+      left: 0;
+      background: linear-gradient(to right, $secondary-color 60%, transparent);
+    }
+  }
+
+  &-image {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    left: 0;
+    top: 0;
+  }
+}
+.bg-secondary {
+  background: $secondary-color !important;
+}
+
+.text-secondary {
+  color: $secondary-color !important;
+}
+
+/* list style */
+.list-styled {
+  padding-left: 0;
+
+  li {
+    position: relative;
+    padding-left: 25px;
+    list-style-type: none;
+
+    &::before {
+      position: absolute;
+      content: "\e65d";
+      font-family: $icon-font;
+      font-size: 14px;
+      left: 0;
+      top: 0px;
+      color: $secondary-color;
+      transition: .3s ease;
+    }
+  }
+}
+
+/* social icons */
+.social-icons {
+  a {
+    display: block;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    line-height: 50px;
+    background: $secondary-color;
+    color: $white;
+    text-align: center;
+  }
+}
+
+

@@ -22,3 +22,22 @@
     padding: 10px;
   }
 }
+
+.navigation {
+  padding: 20px 100px;
+  transition: .3s ease;
+
+  &.nav-bg {
+    background-color: $secondary-color;
+    padding: 15px 100px;
+
+    @include desktop {
+      padding: 15px 20px;
+    }
+  }
+
+  @include desktop {
+    padding: 20px;
+    background: $secondary-color;
+  }
+}
