@@ -1,6 +1,6 @@
 # OSPO++ Website
 
-This repo is powering the OSPO++ Website at [ospoplusplus.github.io/ospoplusplus.org](https://ospoplusplus.github.io/ospoplusplus.org/).
+This repo is powering the OSPO++ Website at [ospoplusplus.github.io/ospoplusplus](https://ospoplusplus.github.io/ospoplusplus/).
 
 The site is built with Hugo framework. All content is located at the `content` folder.
 
@@ -14,7 +14,7 @@ The site is built with Hugo framework. All content is located at the `content` f
 
 ```
 $ git clone [url]
-$ cd ospoplusplus.org
+$ cd ospoplusplus
 $ hugo server
 ```
 
