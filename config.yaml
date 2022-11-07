@@ -46,65 +46,46 @@ menu:
       parent: about
       weight: 4
   footer_left:
-    - name: Learn
-      URL: learn
+    - name: Home
       weight: 1
       post: bold
-    - name: Books
-      URL: learn/books
-      weight: 2
-    - name: Learning Path
-      URL: learn/learning-path
-      weight: 3
-    - name: Patterns
-      URL: learn/patterns
-      weight: 4
-    - name: Research
-      URL: learn/research
-      weight: 5
   footer_middle:
-    - name: Events
-      URL: events
-      weight: 1
-      post: bold
     - name: Community
       URL: community
-      weight: 2
+      weight: 1
       post: bold
       pre: _blank
-    - name: Stories
-      URL: stories
+    - name: Join OSPO++
+      URL: community/policy
+      weight: 2
+    - name: US Open Source Policy
+      URL: community/joinospo
       weight: 3
-      post: bold
-    - name: Services Directory
-      URL: community/services
+    - name: Events
+      URL: events
       weight: 4
-    - name: Announcements
-      URL: about/announcements
+      post: bold
+    - name: Resources
+      URL: resource
       weight: 5
+      post: bold
   footer_right:
     - name: About
       URL: about
       weight: 1
       post: bold
-    - name: Board & Governance
-      URL: about/board
+    - name: About OSPO++
+      URL: about/about-ospo
       weight: 2
     - name: Members
       URL: about/members
       weight: 3
-    - name: Sponsors
-      URL: about/sponsors
-      weight: 4
     - name: Code of Conduct
       URL: about/codeofconduct
-      weight: 5
+      weight: 4
     - name: Contact Us
       URL: about/contact
-      weight: 6
-    - name: Privacy Policy
-      URL: about/privacy
-      weight: 7
+      weight: 5
 languages:
   en:
     languageName: English
@@ -176,13 +157,13 @@ params:
   social:
     - title: github
       icon: ti-github
-      link: 'http://github.com/InnerSourceCommons'
+      link: 'https://github.com/ospoplusplus'
     - title: youtube
       icon: ti-youtube
-      link: 'https://www.youtube.com/channel/UCoSPSd6Or4F_vpjo4SmyoEA'
+      link: 'https://www.youtube.com/channel/UCNdXX2pcsYagQ1O4-MF6rUA'
     - title: twitter
       icon: ti-twitter-alt
-      link: 'http://twitter.com/InnerSourceOrg'
+      link: 'https://twitter.com/ospoplusplus'
     - title: linkedin
       icon: ti-linkedin
-      link: 'https://linkedin.com/company/innersourcecommons'
+      link: 'https://www.linkedin.com/company/ospoplusplus/'
