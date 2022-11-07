@@ -1,5 +1,0 @@
----
-title: "OSPO++ Team"
-subtitle: ""
----
-

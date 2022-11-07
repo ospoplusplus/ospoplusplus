@@ -37,18 +37,14 @@ menu:
       URL: about/members
       parent: about
       weight: 2
-    - name: OSPO++ Team
-      URL: about/team
-      parent: about
-      weight: 4
     - name: Code of Conduct
       URL: about/codeofconduct
       parent: about
-      weight: 5
+      weight: 3
     - name: Contact Us
       URL: about/contact
       parent: about
-      weight: 6
+      weight: 4
   footer_left:
     - name: Learn
       URL: learn
