@@ -158,9 +158,9 @@ params:
       - link: plugins/slick/slick.min.js
       - link: plugins/youmax/youmax.js
       - link: plugins/bootstrap-select/js/bootstrap-select.min.js
-  logo: /ospoplusplus/images/logo2.png
+  logo: /ospoplusplus/images/OSPO++Logo.png
   home: "Home"
-  logo_width: 100px
+  logo_width: 200px
   themeVariant: quizdown
   description: The InnerSource Commons is a growing community of practitioners with the goal of creating and sharing knowledge about InnerSource.
   author: InnerSource Commons
