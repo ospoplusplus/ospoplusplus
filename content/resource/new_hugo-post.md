@@ -1,7 +1,7 @@
 ---
 title: "Creating a New Hugo Post"
 date: 2019-08-05T16:19:26+06:00
-draft: false
+draft: true
 image: images/resource/post-6.jpg
 bgImage: "images/backgrounds/page-title.jpg"
 description: "this is meta description"
