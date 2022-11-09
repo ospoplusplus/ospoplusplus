@@ -9,7 +9,7 @@ studies: "Article"
 
 In 20+ years of helping all sorts of organizations and people understand and participate in Open Source, the most difficult concept for learners is what I call the “All Boats Must Rise” concept. Maybe it’s human nature, but learners often express a desire to create exclusive goodness only for themselves and their allies. “Open Source sounds like a great thing, but how can I keep my bad neighbor next door (or my competitor nation) from reaping the same advantages as my own citizens” is how the problem is generally expressed. To me, this mainly indicates that they’ve not yet understood.
 
-![picture of boats high and dry on strand](/images/resource/risingtide.png)
+![picture of boats high and dry on strand](/ospoplusplus/images/resource/risingtide.png)
 
 ### Open Source is about all the boats rising.
 
@@ -24,7 +24,7 @@ What is your concern is making sure your actual constituents realize and take fu
 
 And sadly still, some companies, some governments, and many activists continue to try to construe Open Source as a fungible concept that can be modified to create strategic exclusion. Sovereignty is defined as “supreme power or authority”. The idea of “Digital Sovereignty” as in creating an island of benefit for a select group (be they citizens, team members, or any identified group) is fundamentally antithetical to Open Source, since a true Open Source project is by design not an exclusion engine.
 
-![picture of fish being released](/images/resource/catchrelease.png)
+![picture of fish being released](/ospoplusplus/images/resource/catchrelease.png)
 
 
 ### Create more value than you monetize

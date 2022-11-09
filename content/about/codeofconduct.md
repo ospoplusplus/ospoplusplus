@@ -1,10 +1,37 @@
 ---
-title: "OSPO++ Commons Code of Conduct"
+title: "OSPO++ Code of Conduct"
 subtitle: ""
-description: "The InnerSource Commons is a growing community of practitioners with the goal of creating and sharing knowledge about InnerSource."
+description: "OSPO++ is a network and a community of collaborative open source program offices in universities, governments, and civic institutions. We're building resources to help create OSPOs, actively engaging in discussions on how to best manage and grow open source programs, and how to garden sustainable communities that last."
 draft: false
 image: "/images/logo.png"
 ---
+
+# Mailing List Code of Conduct
+
+The OSPO++ mailing lists aim to facilitate constructive discussions of challenges and concerns that are particular to Academic Organizations and further the goals of OSPO++. We can achieve this, in part, by behaving well towards each other, so that the broadest diversity of participants feel that the lists are welcoming and useful.
+
+We welcome all topics relating to Academia, open source and OSPOs such as:
+- Sharing your experience in setting up OSPOs in Academia
+- Sharing your challenges and asking for advice through someone else’s experience
+- Sharing your solutions to common problems or in answer to someone else’s question
+- Celebrating your achievements - we love to hear about your successes!
+- Topics Sparking collaboration between Academic Institutions
+- Any other topics OSPO and Academia related.
+
+Messages that are not welcomed and will be moderated:
+- Any topics that are not related to Academia, open source and OSPOs
+- Any personal insults or attacks towards other members 
+
+In our communications and emails we strive to:
+- Be friendly and patient
+- Be respectful and considerate
+- Assume good faith
+- Respect Time and Attention
+- Disclose potential conflict
+- Follow both [Chatham House Rule](https://en.wikipedia.org/wiki/Chatham_House_Rule) and the [Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/).
+
+
+# Community Code of Conduct
 
 ## Our Pledge
 
@@ -53,7 +80,7 @@ This Code of Conduct applies within all community spaces, and also applies when 
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported to the community leaders responsible for enforcement at
-board@innersourcecommons.org. All complaints will be reviewed and investigated promptly and fairly.
+admin@ospoplusplus.org. All complaints will be reviewed and investigated promptly and fairly.
 
 All community leaders are obligated to respect the privacy and security of the reporter of any incident.
 
