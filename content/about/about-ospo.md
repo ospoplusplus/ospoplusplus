@@ -10,12 +10,11 @@ OSPO++ began as a community facilitated by Moss Labs, a loose organization of op
 
 <div class="row text-center justify-content-md-center" id="team">
   <div class="col-sm-12">
-    <p class="rainbow">Organizing Team</p>
+    <p class="h1">Organizing Team</p>
   </div>
   <div class="col-xs-12 col-sm-6 col-lg-4">
     <img src="https://github.com/ospoplusplus/ospoplusplus.com/blob/main/assets/images/authors/jacob.jpg?raw=true" title="Jacob Green" class="align-middle"/>
-    <p>Jacob Green</p>
-    <p class="role">Founder</p>
+    <p>Jacob Green - Founder</p>
   </div>
   <div class="col-xs-12 col-sm-6 col-lg-4">
       <img src="https://github.com/ospoplusplus/ospoplusplus.com/blob/main/assets/images/authors/dcooper.jpg?raw=true" title="Danese Cooper" class="align-middle"/>
@@ -32,7 +31,7 @@ OSPO++ began as a community facilitated by Moss Labs, a loose organization of op
   <div class="col-xs-12 col-sm-6 col-lg-4">
     <img src="https://github.com/ospoplusplus/ospoplusplus.com/blob/main/assets/images/authors/schoudhury.png?raw=true" title="Sayeed Choudhury" class="align-middle"/>
     <p>Sayeed Choudhury</p>
-    <p class="role">Advisor</p>
+
   </div>
 </div>
 
