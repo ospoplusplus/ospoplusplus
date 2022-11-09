@@ -10,8 +10,8 @@ menu:
       identifier: community
       weight: 1
       hasChildren: true
-    - name: Join OSPO++
-      URL: joinospo
+    - name: OSPO++ Community
+      URL: community/ospo_community
       parent: community
       weight: 1
     - name: US Open Source Policy
