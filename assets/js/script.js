@@ -38,7 +38,7 @@
 
 /*
  * toggleAbstract toggles the visibility of the abstract of a presentation on
- * agenda pages of InnerSource events.
+ * agenda pages of OSPO++ events.
  */
 function toggleAbstract(elementId) {
   var a = document.getElementById(elementId);
