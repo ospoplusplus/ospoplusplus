@@ -12,7 +12,7 @@ title: "Community"
         </p>
       </div>
       <div class="col-md-4 order-1 order-md-2 mb-4 mb-md-0">
-        <img style="height: 200px;" src="/ospoplusplus/images/logo_sm.png" class="img-fluid">
+        <img style="height: 200px;" src="/images/logo_sm.png" class="img-fluid">
       </div>
     </div>
   </div>
@@ -34,7 +34,7 @@ title: "Community"
         <p>We post about how to join on our mailing list.</p>
       </div>
       <div class="col-md-5 order-1 order-md-2 mb-4 mb-md-0">
-        <img src="/ospoplusplus/images/community/working-groups.png" class="img-fluid">
+        <img src="/images/community/working-groups.png" class="img-fluid">
       </div>
     </div>
   </div>
@@ -83,7 +83,7 @@ title: "Community"
         <p class="mt-3 h1">Is OSPO++ For Me?</p>
         <p>If you are part of any of the following categories you are welcome to join our Community. We are a friendly bunch.</p>
         <p>
-        <img src="/ospoplusplus/images/community/who-can-join.png" class="img-fluid">
+        <img src="/images/community/who-can-join.png" class="img-fluid">
       </div>
       <div class="row d-flex justify-content-center">
         <a href="mailto: admin@ospoplusplus.org" class="btn btn-primary btn-sm">Want to Join? Get in Touch!</a>
