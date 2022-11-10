@@ -1,7 +1,7 @@
 ---
 title: "Contact Us"
 subtitle: "Stay in touch — here are all the ways to contact OSPO++"
-description: "Stay in touch with InnerSource Commons."
+description: "Stay in touch with OSPO++."
 image: "/images/logo.png"
 type: wide
 ---
