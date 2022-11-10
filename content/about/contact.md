@@ -9,7 +9,7 @@ type: wide
   <div class="container">
     <div class="row align-items-center">
       <div class="col-md-6 order-2 order-md-2">
-        <p>The quickest and best way to reach us is to email us at  <a href="mailto:info@ospoplusplus.org">info@innersourcecommons.org</a>. 
+        <p>The quickest and best way to reach us is to email us at  <a href="mailto:info@ospoplusplus.org">info@ospoplusplus.org</a>. 
         </p>
         <p>If you are already part of our Slack group just send any of the team members a direct message. 
         </p>
