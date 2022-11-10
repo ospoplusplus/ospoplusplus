@@ -13,6 +13,8 @@ Open approaches and especially open source software are growing in popularity. T
 
 There has been a lot of focus in open communities on the legal and technical meanings of open. This roundtable will focus on the higher order implications: economic, political, and social. Our effort will be geographically centered on US policy, drawing from experiences globally. We will start with an initial set of focused topics:
 
+<img src="/images/community/roundtable-focus.png" style="float:right;max-width:300px;" />
+
 1. Implications of investment in open source software at all levels of government, industry, research and university institutions:
 - Shared digital infrastructure & sustainable maintenance
 - Economic development

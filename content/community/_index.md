@@ -71,7 +71,7 @@ title: "Community"
       </div>
     </div>
     <div class="row d-flex justify-content-center">
-        <a href="mailto: admin@ospoplusplus.org" class="btn btn-primary btn-sm">Get in Touch to Express Your Interest in Joining</a>
+        <a href="/about/contact/" class="btn btn-primary btn-sm">Get in Touch to Express Your Interest in Joining</a>
     </div>
   </div>
 </section>
@@ -86,7 +86,7 @@ title: "Community"
         <img src="/images/community/who-can-join.png" class="img-fluid">
       </div>
       <div class="row d-flex justify-content-center">
-        <a href="mailto: admin@ospoplusplus.org" class="btn btn-primary btn-sm">Want to Join? Get in Touch!</a>
+        <a href="/about/contact/" class="btn btn-primary btn-sm">Want to Join? Get in Touch!</a>
     </div>
     </div>
   </div>
@@ -119,7 +119,7 @@ title: "Community"
           <i class="ti-face-smile mb-3"></i>
           <h4 class="mb-2">Code of Conduct</h4>
           <p>We have a Community and a Mailing List Code of Conduct. </p>
-          <p>Be nice and kind. If you would like more details, please read our <a href="/ospoplusplus/about/codeofconduct/">Code Of Conduct</a>.</p>
+          <p>Be nice and kind. If you would like more details, please read our <a href="/about/codeofconduct/">Code Of Conduct</a>.</p>
         </div>
       </div>
     </div>
