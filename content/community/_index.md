@@ -83,12 +83,7 @@ title: "Community"
         <p class="mt-3 h1">Is OSPO++ For Me?</p>
         <p>If you are part of any of the following categories you are welcome to join our Community. We are a friendly bunch.</p>
         <p>
-        <p>
-        <p> --- Infographic with categories goes here --- </p>
-        <p>Academic institutions: interested in open source,that have an OSPO or are interested in starting a OSPO, interested in collaboration with other institutions, interested in OSS Education, such as Semesters of Code</p>
-        <p>Governments:Interested in learning about open source, Interested in learning about and/or starting and OSPO, Interested in collaborating with other governments.</p>
-        <p>NGOs, Foundation, Philanthropy, & OSS Stakeholder Organizations: Interested in supporting OSPOs in Government & Academia, Interested in robust collaboration between OSPOs</p>
-        <p>Individuals: Interested in working with public sector OSPOs,Interested in contributing their experience to OSPO++ Network<p>
+        <img src="/ospoplusplus/images/community/who-can-join.png" class="img-fluid">
       </div>
       <div class="row d-flex justify-content-center">
         <a href="mailto: admin@ospoplusplus.org" class="btn btn-primary btn-sm">Want to Join? Get in Touch!</a>
