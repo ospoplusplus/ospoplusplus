@@ -27,7 +27,7 @@ Accompanying the event is a [case-study report](/documents/Resources/empowering-
 ![Paris Speakers](/images/resource/ParisSpreakers.jpeg)
 
 ### Session Materials:
-[OSPO++ Case Study](/ospoplusplus/documents/Resources/empowering-communities-worlds-apart.pdf)[^1] - “Empowering Communities Worlds Apart - Deploying open source at St. Francis Neighborhood Center”
+[OSPO++ Case Study](/documents/Resources/empowering-communities-worlds-apart.pdf)[^1] - “Empowering Communities Worlds Apart - Deploying open source at St. Francis Neighborhood Center”
 
 [Full Session Video Recording](https://youtu.be/oGtCEPy2_-Y) (1h 41m)
 

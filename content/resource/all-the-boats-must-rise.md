@@ -9,10 +9,7 @@ studies: "Article"
 
 In 20+ years of helping all sorts of organizations and people understand and participate in Open Source, the most difficult concept for learners is what I call the “All Boats Must Rise” concept. Maybe it’s human nature, but learners often express a desire to create exclusive goodness only for themselves and their allies. “Open Source sounds like a great thing, but how can I keep my bad neighbor next door (or my competitor nation) from reaping the same advantages as my own citizens” is how the problem is generally expressed. To me, this mainly indicates that they’ve not yet understood.
 
-![picture of boats high and dry on strand](/images/resource/risingtide.png)
-
 ### Open Source is about all the boats rising.
-
 
 As a waxing tide tends to lift all boats equally, Open Source should create a benefit for all, even those who don’t contribute. Even those who are using the software in unintended ways. Even your competitors, even your enemies. Sticking with the boat metaphor, not every boat in the harbor will take advantage of the benefit. Some will rest at anchor. Others won’t be fit to sail. These are not your concerns.
 

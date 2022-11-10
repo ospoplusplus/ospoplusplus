@@ -5,17 +5,19 @@ description:
 ############################### services ####################################
 services:
   # service item
-  - title : "Slack"
+  - title : "Join us"
     icon : "ti-comments" # themify icon pack https://themify.me/themify-icons
-    content : "Join the growing OSPO++ community via Slack and introduce yourself. You will find some great companions to join you on your OSPO journey. [Join Community ->](https://ospoplusplus.slack.com/join/shared_invite/zt-1eueepbox-J5Za4ylcVoKwgDl6oGcwXA#/shared-invite/email)"
-
-  # service item
-  - title : "Mailing List"
-    icon : "ti-email" # themify icon pack https://themify.me/themify-icons
-    content : "Join our OSPO++ in Academia Mailing list and stay up to date by sending a note to: academia+subscribe@ospoplusplus.org (A Join link will be sent back to you)"
-
+    content : "Join the growing OSPO++ community. You will find some great companions to join you on your OSPO journey. [Join Community ->](/about/contact/)"
+  
   # service item
   - title : "Events"
     icon : "ti-announcement" # themify icon pack https://themify.me/themify-icons
-    content : "Attend a community gathering; virtual or in-person. Check out our upcoming events and videos of our previous presentations on our Events page."
+    content : "Attend a community gathering; virtual or in-person. Check out our upcoming events and videos of our previous presentations on our [Events page](/events/)."
 
+
+  # service item
+  - title : "Contact Us"
+    icon : "ti-email" # themify icon pack https://themify.me/themify-icons
+    content : "We always love hearing from people passionate about OSPOs. So drop us a line at [info@ospoplusplus.org](mailto:info@ospoplusplus.org) even if it's just to say Hi!"
+
+  
