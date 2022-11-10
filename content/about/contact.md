@@ -17,7 +17,7 @@ type: wide
         </p>
       </div>
       <div class="col-md-6 order-1 order-md-1 mb-4 mb-md-0">
-        <img src="/ospoplusplus/images/about/contact/contact_us.png" class="img-fluid">
+        <img src="/images/about/contact/contact_us.png" class="img-fluid">
       </div>
   </div>
 </section>

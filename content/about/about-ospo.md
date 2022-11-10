@@ -13,23 +13,23 @@ OSPO++ began as a community facilitated by Moss Labs, a loose organization of op
     <p class="h1">Organizing Team</p>
   </div>
   <div class="col-xs-12 col-sm-6 col-lg-4">
-    <img src="/ospoplusplus/images/about/team/jacob.jpg" title="Jacob Green" class="align-middle"/>
+    <img src="/images/about/team/jacob.jpg" title="Jacob Green" class="align-middle"/>
     <p>Jacob Green - Founder</p>
   </div>
   <div class="col-xs-12 col-sm-6 col-lg-4">
-      <img src="/ospoplusplus/images/about/team/dcooper.jpg" title="Danese Cooper" class="align-middle"/>
+      <img src="/images/about/team/dcooper.jpg" title="Danese Cooper" class="align-middle"/>
       <p>Danese Cooper</p>
   </div>
   <div class="col-xs-12 col-sm-6 col-lg-4">
-      <img src="/ospoplusplus/images/about/team/richard.png" title="Richard Littauer" class="align-middle"/>
+      <img src="/images/about/team/richard.png" title="Richard Littauer" class="align-middle"/>
       <p>Richard Littauer</p>
   </div>
   <div class="col-xs-12 col-sm-6 col-lg-4">
-      <img src="/ospoplusplus/images/about/team/clare.jpg" title="Clare Dillon" class="align-middle"/>
+      <img src="/images/about/team/clare.jpg" title="Clare Dillon" class="align-middle"/>
       <p>Clare Dillon</p>
   </div>
   <div class="col-xs-12 col-sm-6 col-lg-4">
-    <img src="/ospoplusplus/images/about/team/schoudhury.png" title="Sayeed Choudhury" class="align-middle"/>
+    <img src="/images/about/team/schoudhury.png" title="Sayeed Choudhury" class="align-middle"/>
     <p>Sayeed Choudhury</p>
 
   </div>
