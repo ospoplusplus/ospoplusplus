@@ -1,0 +1,25 @@
+{{ define "main" }}
+
+{{ partial "breadcrumbs.html" . }}
+
+{{ $pages := .Data.Pages }}
+{{ $pages = where $pages "Section" "in" "resource" }}
+<section class="section section-first">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-10 mx-auto">
+        <img src="{{ .Params.image | absURL }}" class="img-fluid w-100 rounded mb-4">
+        <h6>By {{ .Params.author }}</h6>
+        <ul>
+          {{ range .Site.Taxonomies.studies }}
+          <h3>
+            {{ .Page.Title }}
+          </h3>
+          {{ end }}
+        </ul>
+        <div class="content">{{.Content}}</div>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
