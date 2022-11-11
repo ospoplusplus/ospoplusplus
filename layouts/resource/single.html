@@ -9,14 +9,8 @@
     <div class="row">
       <div class="col-lg-10 mx-auto">
         <img src="{{ .Params.image | absURL }}" class="img-fluid w-100 rounded mb-4">
-        <h6>By {{ .Params.author }}</h6>
-        <ul>
-          {{ range .Site.Taxonomies.studies }}
-          <h3>
-            {{ .Page.Title }}
-          </h3>
-          {{ end }}
-        </ul>
+        <h2 class="mb-4">{{ .Title }}</h2>
+        <p>By {{ .Params.author }}, {{ .Params.studies }}</p>
         <div class="content">{{.Content}}</div>
       </div>
     </div>

@@ -1,4 +1,0 @@
----
-title: Article
-draft: false
----
