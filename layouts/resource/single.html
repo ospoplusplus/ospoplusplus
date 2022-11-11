@@ -10,7 +10,7 @@
       <div class="col-lg-10 mx-auto">
         <img src="{{ .Params.image | absURL }}" class="img-fluid w-100 rounded mb-4">
         <h2 class="mb-4">{{ .Title }}</h2>
-        <p>By {{ .Params.author }}, {{ .Params.studies }}</p>
+        <p>{{ .Params.studies }} By {{ .Params.author }}</p>
         <div class="content">{{.Content}}</div>
       </div>
     </div>
