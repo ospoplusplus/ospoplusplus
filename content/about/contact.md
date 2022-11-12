@@ -20,4 +20,25 @@ type: wide
         <img src="/images/about/contact/contact_us.png" class="img-fluid">
       </div>
   </div>
+   <div class="col-md-6">
+    <div class="bg-white p-4">
+      <h3>Contact Us</h3>
+        <form action="info@ospoplusplus.org" target="_blank" method="post">
+          <input type="text" id="name" name="name" class="form-control mb-4 px-0" placeholder="Name">
+          <input  class="form-control mb-4 px-0" placeholder="Email address">
+          <input type="text" id="name" name="name" class="form-control mb-4 px-0" placeholder="Organization"></input>
+            <label for="community">I work with:</label>
+            <input list="communities" name="community" id="community">
+            <datalist id="communities">
+              <option value="Academic Institution">
+              <option value="Government">
+              <option value="NGO / Foundation / Philanthropy / OSS Stakeholder Org">
+              <option value="Corporation">
+              <option value="Individual">
+            </datalist>
+          <input class="btn btn-primary" type="submit" value="Submit">
+      </form>
+    </div>
+  </div>
 </section>
+    
