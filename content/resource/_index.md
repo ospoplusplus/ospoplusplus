@@ -4,8 +4,8 @@ date: 2019-08-01T16:19:26+06:00
 draft: false
 ---
 
-### [OSF](https://osf.io/)
-- [Good Practices Primer - Code and Software](https://osf.io/tzfnx) - Developing a Toolkit for Fostering Open Science Practices
+### [HELIOS](https://www.heliosopen.org/)
+- [Open Source, Tech Transfer & Commercialization](https://www.heliosopen.org/news/spotlight-series-recap-open-source-tech-transfer-amp-commercialization) - A Spotlight Series Recap blog post sumarizing the key themes of the November 15th, 2022, convention of academic leaders, discussing their open source, code, and software sharing efforts. 
 
 ### [OSPO ZONE](https://ospo.zone/) 
 - [The Good Governance Initiative](https://ospo.zone/ggi/) - The OSPO Alliance is built out of the OSS Good Governance Initiative (or GGI) blueprint developed by European open source organisations to help implement corporate-wide open source policies, and set up OSPOs. The methodology proposes a comprehensive approach based on five objectives (Goals) and a number of tasks (Activities) describing what steps should be implemented to build a successful OSPO.
