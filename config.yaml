@@ -31,7 +31,7 @@ menu:
       identifier: about
       weight: 4
     - name: About OSPO++
-      URL: about/about-ospo
+      URL: about
       parent: about
       weight: 1
     - name: Members
@@ -56,11 +56,11 @@ menu:
       weight: 1
       post: bold
       pre: _blank
-    - name: Join OSPO++
-      URL: community/policy
+    - name: OSPO++ Community
+      URL: community
       weight: 2
     - name: US Open Source Policy
-      URL: community/joinospo
+      URL: community/policy
       weight: 3
     - name: Events
       URL: events
@@ -76,7 +76,7 @@ menu:
       weight: 1
       post: bold
     - name: About OSPO++
-      URL: about/about-ospo
+      URL: about
       weight: 2
     - name: Members
       URL: about/members
