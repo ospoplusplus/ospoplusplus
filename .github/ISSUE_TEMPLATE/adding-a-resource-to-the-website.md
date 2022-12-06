@@ -19,5 +19,5 @@ assignees: ''
 - [ ] Please click on the links to ensure they are working.
 - [ ] If you are happy with your chages, scroll to the bottom of the page and enter a description for the commit, detailing the resource you have added.
 - [ ] Click on the radio button to "Create a new branch for this commit and start a pull request".
-- [ ]Name the new branch
-- [ ]Click the Propose Changes button.
+- [ ] Name the new branch
+- [ ] Click the Propose Changes button.
