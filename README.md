@@ -30,19 +30,19 @@ Please follow the instructios above to clone the repository. When you want to co
 ### Adding a Resource to the website 
 
 We welcome external resources to be added to our resources page on the website. If you created a resource relevant to the community or you found a resource that isn't listed that you would like to add to our Resources page, please follow the steps bellow:
-* Go to https://ospoplusplus.org/resource/ and scroll down the page until you reach Third Party Resources.
-* Check if the resource you would like to add is listed already
-* If it is not in the list already come back to this repository
-* Navigate to: content/resource and open the file _index.md
-* Click on the Edit (pencil) button on the right hand side
-* Add the resource in Markdown code to the list in the document 
-* Please ensure to follow the alphabetical order if you are adding a new organization to the list. 
-* Next preview your changes by clicking the Preview tab at the top left of the document, to ensure the change you made is showing up in the right place.
-* Please click on the links to ensure they are working.
-* If you are happy with your chages, scroll to the bottom of the page and enter a description for the commit, detailing the resource you have added. 
-* Click on the radio button to "Create a new branch for this commit and start a pull request".
-* Name the new branch 
-* Click the Propose Changes button.
+* Create a new Issue by pressing the New Issue button on the Issues page: https://github.com/ospoplusplus/ospoplusplus/issues
+* Select the Issue template: Adding a Resource to the Website -> Get Started
+* Name the issue - choose a name relevant to the resource you are adding.
+* Click the Submit New Issue button
+* This will give you a checklist of steps you will need to follow to add a resource to the OSPO++ website.
+* Please follow the checklist and check things off as you go along.
 
+### Adding an Event to the website 
 
-
+We welcome external events to be added to our Events page on the website. If you organize an event relevant to the community or you are attending an event that isn't listed and you would like to add to our Events page, please follow the steps bellow:
+* Create a new Issue by pressing the New Issue button on the Issues page: https://github.com/ospoplusplus/ospoplusplus/issues
+* Select the Issue template: Adding an Event to the Website -> Get Started
+* Name the issue - choose a name relevant to the event you are adding.
+* Click the Submit New Issue button
+* This will give you a checklist of steps you will need to follow to add the envent to the OSPO++ website.
+* Please follow the checklist and check things off as you go along.
