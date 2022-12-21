@@ -1,9 +1,9 @@
 ---
 title: "Johns Hopkins University OSPO"
-date: 
+date:  2022-12-21T15:18:26+06:00
 draft: false
-image: 
-author: 
+image: images/resource/Johns-Hopkins University-OSPO.png 
+author:  Ciara Flanagan
 studies: "Case Study"
 ---
 
@@ -12,7 +12,7 @@ The [Johns Hopkins University (JHU) Sheridan Libraries](https://www.library.jhu.
 The JHU OSPO is a university-wide unit anchored in the Sheridan Libraries’ [Digital Research and Curation Center](https://drcc.library.jhu.edu/). Its mission is to promote the use of open-source software for research, education, and technology transfer. Core activities include:
 
 - Building awareness of the value and impact of open source within the university.
-Providing resources, tools, and engineering support to promote the use of open source within the university’s academic community.
+- Providing resources, tools, and engineering support to promote the use of open source within the university’s academic community.
 - Supporting the participation of faculty, staff, and students in open source through educational programs, information sharing, and guidance on best practices.
 - Encouraging the translation of academic discovery into products and services that generate social impact in addition to commercial success.
 

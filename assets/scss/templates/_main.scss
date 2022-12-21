@@ -101,27 +101,34 @@ a.post-title {
     }
   }
 
-  ul {
+
+  ul li {
     padding-left: 0;
     margin-bottom: 20px;
-    list-style-type: none;
+    list-style-type: square;
 
     li {
       padding-left: 20px;
       position: relative;
+      list-style-type: circle;
 
-      &::before {
-        position: absolute;
-        content: '';
-        height: 8px;
-        width: 8px;
-        border-radius: 50%;
-        background: $primary-color;
-        left: 3px;
-        top: 12px;
-      }
-    }
+      //    &::before {
+      //   position: absolute;
+      //   content: '';
+      //   height: 8px;
+      //   width: 8px;
+      //   border-radius: 50%;
+      //   background: $primary-color;
+      //   left: 3px;
+      //   top: 12px;
+      // }
+
+}
+
+    
   }
+
+ 
 
   table {
     width: 100%;
