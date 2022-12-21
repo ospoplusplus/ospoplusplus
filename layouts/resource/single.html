@@ -1,6 +1,5 @@
 {{ define "main" }}
 
-{{ partial "breadcrumbs.html" . }}
 
 {{ $pages := .Data.Pages }}
 {{ $pages = where $pages "Section" "in" "resource" }}
