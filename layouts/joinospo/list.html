@@ -1,6 +1,5 @@
 {{ define "main" }}
 
-{{ partial "breadcrumbs.html" . }}
 {{ partial "page-header.html" . }}
 
 
@@ -23,7 +22,8 @@
         <div class="card border-0 hover-bg-secondary shadow py-4">
           <div class="card-body text-center">
             <div class="position-relative">
-              <i class="icon-lg icon-box bg-gradient-primary rounded-circle {{ .icon }} mb-5 d-inline-block text-white"></i>
+              <i
+                class="icon-lg icon-box bg-gradient-primary rounded-circle {{ .icon }} mb-5 d-inline-block text-white"></i>
               <i class="icon-lg icon-watermark text-white {{ .icon }}"></i>
             </div>
             <h4 class="mb-4">{{ .title | markdownify }}</h4>
