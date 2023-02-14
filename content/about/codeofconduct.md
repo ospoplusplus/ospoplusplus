@@ -20,7 +20,10 @@ We welcome all topics relating to Academia, open source and OSPOs such as:
 
 Messages that are not welcomed and will be moderated:
 - Any topics that are not related to Academia, open source and OSPOs
+- Marketing or sales emails
 - Any personal insults or attacks towards other members 
+
+Mailing list members do not have permission to add the OSPO++ academia mailing list to other email lists.
 
 In our communications and emails we strive to:
 - Be friendly and patient
