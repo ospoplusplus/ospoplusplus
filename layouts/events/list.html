@@ -20,7 +20,7 @@
           <div class="card-body p-0">
             <h3><a href="{{ default .Permalink .Params.redirect }}" {{ with .Params.target }} target="{{ . }}" {{ end }}
                 class="post-title">{{ .Title }}</a></h3>
-            <p class="card-text">{{ .Content | safeHTML | truncate 150 }}</p>
+            <p class="card-text event-card-text">{{ .Summary }}</p>
             <a href="{{ default .Permalink .Params.redirect }}" {{ with .Params.target }} target="{{ . }}" {{ end }}
               class="btn btn-primary btn-sm">Open Event</a>
             {{ if .Params.youtubeLink }}
