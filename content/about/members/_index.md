@@ -45,6 +45,8 @@ subtitle: "OSPO++ is a network and a community of collaborative open source prog
       {{< /company >}}
       {{< company name="Portland State University" image="/images/about/logos/psu_logo.png">}}
       {{< /company >}}
+       {{< company name="RI.SE" image="/images/about/logos/ri_se_logo.png">}}
+      {{< /company >}}
       {{< company name="RIT" image="/images/about/logos/rit_logo.png">}}
       {{< /company >}}
       {{< company name="Software Enginnering Institute" image="/images/about/logos/sei_logo.webp" >}}
