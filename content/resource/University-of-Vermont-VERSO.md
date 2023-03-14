@@ -12,7 +12,7 @@ In 2022, the University of Vermont (UVM) was awarded funding by the Alfred P. Sl
 
 Two departments have joint responsibility for VERSO - UVM’s [Howe Library](https://library.uvm.edu/) and the [College for Engineering and Mathematical Sciences](https://www.uvm.edu/cems).
 
-VERSO’s primary aim is to create, <b>promote and enable open work</b>. 
+VERSO’s primary aim is to <b> create, promote and enable open work</b>. 
 
 Its objectives are to:
 
@@ -26,7 +26,7 @@ VERSO is focused on supporting faculty through Open Science initiatives and buil
 Activities undertaken to date include:
 
 - Promotion of open source and VERSO through attendance at conferences; guest lectures within UVM; and networking with community organizations.
-- he creation of UVM’s [ESRI ArcGIS](https://www.uvm.edu/it/kb/article/arcgis/) framework. At present, a team is curating the dataset to ensure the portal is relevant and adds value.
+- The creation of UVM’s [ESRI ArcGIS](https://www.uvm.edu/it/kb/article/arcgis/) framework. At present, a team is curating the dataset to ensure the portal is relevant and adds value.
 - Scoping and piloting of a UVM instance of the [dataverse](https://dataverse.harvard.edu/). 
 - Design of an open source course targeting undergraduates and graduates in the next academic year. The approval process is underway.
 
