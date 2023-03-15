@@ -11,7 +11,8 @@ Rochester Institute of Technology’s (RIT) [Open@RIT office](https://openr.it/)
 
 Open@RIT is a Key Research Center and is based within the Office of the Vice President of Research.
 
-A proportion of its activity is modelled on the work of an industry OSPO. However, as an open programs office, Open@RIT has the wider remit of fostering collaboration and growing the footprint of [<b> Open Work</b>](https://openworkdefinition.com/) within the university. This remit recognizes the principles of open work includes (but is not limited to) Open Source Software, Open Data, Open Science, Open Hardware, Open Educational Resources and Creative Commons licensed efforts.
+
+A proportion of its activity is modeled on the work of an industry OSPO. However, as an open programs office, Open@RIT has the wider remit of fostering collaboration and growing the footprint of [<b> Open Work</b>](https://openworkdefinition.com/) within the university. This remit recognizes the principles of open work and includes (but is not limited to) Open Source Software, Open Data, Open Science, Open Hardware, Open Educational Resources, and Creative Commons licensed efforts.
 
 The office builds the capacity of RIT’s academic community in three areas: <b>contribution to open projects, dissemination of open work</b> and <b>supporting recognition of and career advancement for open scholarship</b> within academia.
 
@@ -20,9 +21,9 @@ Activities include:
 * Provision of advice, information, mentoring and best practice materials. 
 * Educational programmes:
 
-    * a generalized immersion course in open source
+    * A generalized immersion course in open source.
     * Minor in Free and Open Source Software and Free Culture (emphasizing community membership and contribution).
-    * The [LibreCorps programme](https://fossrit.github.io/librecorps/) which provides co-operative education placements in humanitarian and civic organisations for students interested in open source.
-* Practical assistance for faculty and staff in the design and sustainability of open research that demonstrates clear alignment with both funding and university requirements.
-* Formal and applied research in Open Work that has included qualitative studies of Open communities, FOSS education and the creation of Open Platforms for Deaf education.
+    * The [LibreCorps programme](https://fossrit.github.io/librecorps/), which initially provided co-operative education placements in humanitarian and civic organizations for students interested in open source. With the support of the Alfred P. Sloan Foundation, LibreCorps has supported 25 faculty research projects across six different colleges in two years.
+* Practical assistance for faculty and staff in the design and sustainability of Open Research that demonstrates clear alignment with both funding and university requirements.
+* Formal and applied research in Open Work, including Ford Foundation-funded qualitative studies of Open Communities, FOSS education, and the creation of Open Platforms for deaf education.
 
