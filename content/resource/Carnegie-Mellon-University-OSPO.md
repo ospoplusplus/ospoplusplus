@@ -20,7 +20,7 @@ The four core objectives are to:
 - Explore open source software and its impact as an underlying component for automated science.
 - Examine how both US Federally Funded Research and Development Centers (FFRDCs) and University Affiliated Research Centers (UARCs) can develop open source policies, processes and programs.
 - Support wider university services such as student internships and open source educational efforts.
-- To build the university’s capacity to curate, manage and share open source software.
+- Build the university’s capacity to curate, manage and share open source software.
 
 Even at this early stage in its development, students have requested OSPO support for activities such as hackathons and internships. A community manager has now been hired to drive these efforts. 
 
