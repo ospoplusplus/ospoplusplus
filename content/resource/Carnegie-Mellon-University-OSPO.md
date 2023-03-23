@@ -3,7 +3,7 @@ title: "Carnegie Mellon University OSPO"
 date: 2023-03-21T09:10:26+06:00 
 draft: false
 image: images/resource/Carnegie-Mellon-University-OSPO.png
-author: Ciara Flanagan and Sayeed Choudhury
+author: Sayeed Choudhury and Ciara Flanagan
 studies: "Case Study"
 ---
 
