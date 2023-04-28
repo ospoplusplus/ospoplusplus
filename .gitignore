@@ -9,5 +9,14 @@ builds
 package-lock.json
 public
 resources
+<<<<<<< HEAD
 .vs/
 ospoplusplus/.vs
+=======
+<<<<<<< HEAD
+.vs
+=======
+.vs/
+ospoplusplus/.vs
+>>>>>>> 7eda92b (Delete .vs folder)
+>>>>>>> ca34863 (Delete .vs folder)
