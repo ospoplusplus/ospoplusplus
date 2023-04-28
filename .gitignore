@@ -9,4 +9,5 @@ builds
 package-lock.json
 public
 resources
-.vs
+.vs/
+ospoplusplus/.vs
