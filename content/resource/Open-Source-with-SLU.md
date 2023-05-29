@@ -10,7 +10,7 @@ studies: "Case Study"
 
 In July 2022, Saint Louis University (SLU) was awarded funding by the Alfred P. Sloan Foundation to launch its Open Source Program Office,<b>[ Open Source with SLU](https://oss-slu.github.io/)</b>. The two year grant funds the creation of a new software engineering laboratory, stipends for graduate students and a program director role.
 
-While the office is based within the Computer Science department in the [School of Science and Engineering](https://cs.slu.edu/), Open Source with SLU is a resource for the entire university and broader regional community. 
+While the office is based within the Computer Science department in the [School of Science and Engineering](https://www.slu.edu/index.php), Open Source with SLU is a resource for the entire university and broader regional community. 
 
 <b>Its mission is to provide ‘real-world’ software development experiences for students whilst also supporting open scholarship</b> through the provision and maintenance of software tools for researchers.
 
