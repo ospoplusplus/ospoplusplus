@@ -9,11 +9,9 @@ subtitle: "OSPO++ is a network and a community of collaborative open source prog
       {{< company name="Apereo Foundation" image="/images/about/logos/apereo_foundation_logo.png" />}}
       {{< company name="Baskin Engineering" image="/images/about/logos/baskin_enginnering_logo.png">}} 
       {{< /company >}}
-     {{< company name="Bitergia" image="/images/about/logos/bitergia_logo_text.svg">}} 
-     {{< /company >}}
-      {{< company name="Brandeis" image="/images/about/logos/brandeis_logo.png">}}
+      {{< company name="Bitergia" image="/images/about/logos/bitergia_logo_text.svg">}} 
       {{< /company >}}
-      {{< company name="CMU" image="/images/about/logos/cmu_logo.png">}}
+      {{< company name="Brandeis" image="/images/about/logos/brandeis_logo.png">}}
       {{< /company >}}
       {{< company name="Cross" image="/images/about/logos/cross_logo.png" >}}
       {{< /company >}}
