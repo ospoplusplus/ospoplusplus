@@ -7,31 +7,31 @@ author: Andrew Wichmann, Colleen Maloney, Ciara Flanagan
 studies: "Article"
 ---
 
-Open source software (OSS) is often available at no cost. However, in recent years we have seen a significant number of high-growth companies emerge with business models that incorporate open source software. These organizations are often categorized as Commercial Open Source Software (COSS) companies. They deliver value to customers by offering commercial versions of open source software, which has interesting implications when viewed within the context of higher education.
+Open source software (OSS) is often available at no cost. However, in recent years, we have seen a significant number of high-growth companies emerge with business models that incorporate OSS. These organizations are often categorized as Commercial Open Source Software (COSS) companies. They deliver value to customers by offering commercial versions of open source software, which has interesting implications when viewed within the context of higher education.
 
-At the recent OSPO++ ‘Open Source Innovation in Universities’ event, Andrew Wichmann, Senior IP & Licensing Manager for Digital Technology at [Johns Hopkins Technology Ventures](https://ventures.jhu.edu/) discussed the rise in interest and investment in COSS technologies, as well as the business models emerging to support it.
+At the recent OSPO++ ‘Open Source Innovation in Universities’ event, Andrew Wichmann, Senior IP & Licensing Manager for Digital Technology at [Johns Hopkins Technology Ventures](https://ventures.jhu.edu/)(JHTV),  discussed the rise in interest and investment in COSS technologies, as well as the business models emerging to support it.
 
 ### Commercial opportunities for university open source
 
-Wichmann explained that while the mission of most universities is to disseminate knowledge; the mission of the technology transfer office (TTO) at Johns Hopkins “is to translate technology out of the university and into the world”. He also noted that fulfillment of the TTO’s mission typically involves a commercial transaction. 
+Wichmann explained that while the mission of most universities is to disseminate knowledge; the mission of the technology transfer office (TTO) at Johns Hopkins, “… is to translate technology out of the university and into the world”. He also noted that fulfillment of the TTO’s mission typically involves a commercial transaction. 
 
 In many ways, these two purposes go hand in hand, yet the conversation can become complicated when it comes to the commercialization of technology - particularly open source. Wichmann pointed out that to translate technology, it must be sustained, meaning it must work and be maintained in the world.
 
 “Commercialization sustains open source,” Wichmann said simply. “There are other ways of sustaining open source … However, selling a product or service helps to offset the cost of building and maintaining a software product.” 
 
-From the perspective of Johns Hopkins Technology Ventures (JHTV), the overarching objectives of both TTOs and Open Source Program Offices (OSPOs) are aligned with commercialization of open source software and therefore should support it where possible.
+From the perspective of JHTV, the overarching objectives of both TTOs and Open Source Program Offices (OSPOs) are aligned with commercialization of open source software and therefore should support it where possible.
 
 ### Growing interest in COSS
 
-Evidence shows the market agrees. Since the growth of the open source community and founding of RedHat in the early ‘90s, OSS has gained a solid foothold in commercial technology. While the early days concentrated the commercial value of open source within RedHat, the past two decades have seen that change dramatically. Exponentially greater volume and value of COSS exists today; and it is spread across multiple private companies and organizations.
+Evidence shows that the market agrees. Since the growth of the open source community and founding of RedHat in the early ‘90s, OSS has gained a solid foothold in commercial technology. While the early days concentrated the commercial value of open source within RedHat, the past two decades have seen that change dramatically. Exponentially greater volume and value of COSS exists today; and it is spread across multiple private companies and organizations.
 
-“There has been increasingly a number of commercial open source companies or companies that are built upon or relate to some sort of open source project,” Wichmann explained. “One [reason] is that they're very capital-efficient things to invest in. You can find an existing project that's free. You can think about it, find a customer base, adapt it for that use case, and then sell that as a product. This can all happen very rapidly.”
+“There has been an increasing number of COSS companies or companies that are built upon or relate to some sort of open source project,” Wichmann explained. “One [reason] is that they're very capital-efficient.  You can find an existing project that's free, find a customer base, adapt it for that use case, and then sell that as a product. This can all happen very rapidly.”
 
 As OSS-based companies emerged, venture capital firms looked to support them. OSS Capital remains the only early-stage VC that exclusively invests in COSS companies, but many of the major VCs like Y Combinator, A16z and others have made significant investments as well. This points to increasing interest from investors in building companies around open source projects.
 
 ### Emerging models for commercialization
 
-Developing in parallel with the investment are new models for COSS companies.
+Developing in parallel with investment are new models for COSS companies.
 
 ##### Services and support
 
