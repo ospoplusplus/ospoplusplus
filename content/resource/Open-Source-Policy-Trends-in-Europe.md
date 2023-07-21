@@ -8,17 +8,17 @@ studies: "Article"
 ---
 
 
-The fact that open source was once considered a fringe movement, limited and even subversive seems inconceivable today. Having powered innovation for decades while staying largely outside the spotlight, open source is in approximately 92% of software across all sectors and around the world.
+The fact that open source was once considered a subversive, fringe movement seems inconceivable today. Having powered innovation for decades while staying largely outside the spotlight, open source is now in approximately 92% of software across all sectors and around the world.
 
-Now, formal institutions and official bodies consider open source to be an essential tool for innovation and are creating policy to drive its broader use. The accompanying policy development marks a welcome and vital shift in mindset.
+Now, formal institutions and official bodies consider open source to be an essential tool for innovation and are creating policy to drive its broader use. The accompanying policy development marks a welcome and vital shift.
 
 In her keynote address at the recent OSPO++ ‘Open Source Innovation in Universities event’, Sachiko Muto, chair of [OpenForum Europe](https://openforumeurope.org/) and senior researcher at [RI.SE](https://www.ri.se/en), explored the evolution of the EU’s recent policy on open source, its future direction and the implications for universities.
 
-## From David to Goliath …
+## From David to Goliath
 
 Muto recounted earlier attitudes toward open source and how even its advocates were outpaced by its potential. “Looking back on it now, I think the conversation was really limited,” she said. “The conversation was mostly around open standards and the choice between proprietary and open source.”
 
-While discussions centered on the idea of open source being an important choice for future growth, open source projects and software were proving the hypothesis faster than policy makers, enterprise and even researchers were aware. 
+While discussions centered on the idea of open source being an important choice for future growth; open source projects and software were proving the hypothesis faster than policy makers, enterprise and even researchers were aware. 
 
 Muto noted a colleague who worked for what was Sony Ericsson. Although the company was not a vocal proponent of open source software (OSS); by the early 2010s, around 95% of the software they used was open source. This was just one example. Muto also recalled an observation that there are two kinds of organizations - those who know they rely on open source and have an active strategy to support it, and those who don’t yet realize they rely on OSS.
 
@@ -50,7 +50,7 @@ Although this was the third open source strategy produced by the EU, it was its 
 
 ### Funding innovation and open science
 
-Muto noted that “The EU is sometimes described as an oil tanker that isn’t very agile … it doesn’t move very quickly but once it does, there is incredible momentum.”
+Muto noted that “The EU is sometimes described as an oil tanker that isn’t very agile … It doesn’t move very quickly but once it does, there is incredible momentum.”
 
 With a budget of €95.5 billion to fund research through 2027, the EU’s [Horizon Europe](https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en), is of particular relevance to researchers. Calls for tender specifically refer to open source and align with the policy trends toward the sharing and reuse of OSS, interoperability, contributing to open source projects and the [FAIR principles](https://www.go-fair.org/fair-principles/) for digital development.
 
