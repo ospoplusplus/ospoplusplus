@@ -66,7 +66,7 @@ In November 2022, a new proposal was drafted at the behest of EU nations and bas
 
 Feedback from member states was that the guidelines were not enough and that mandatory aspects were needed in order to maximize impact. 
 
-The legislation for the ‘Open Source in the Interoperable Europe Act’ is now before the European Parliament and is expected to pass. Rather than legislating after the fact, these steps are positioning the EU to be a leader in shaping the future of open source and technology development.
+The legislation for 'The Interoperable Europe Act’ is now before the European Parliament and is expected to pass. Rather than legislating after the fact, these steps are positioning the EU to be a leader in shaping the future of open source and technology development.
 
 Muto highlighted one Chapter 1, Article 4 of the proposed legislation:
 
@@ -76,6 +76,6 @@ Muto highlighted one Chapter 1, Article 4 of the proposed legislation:
 
 As key legislative bodies and public institutions implement OS policies; universities and researchers are benefitting both from the guidance they provide and the widespread support for open source they foster. Citing multiple calls for tender that are seeking OS solutions, Muto noted the increasing opportunities for researchers and also the importance of recognising the movement in policy towards open sharing of source code. 
 
-With interoperability emerging as a cornerstone of open source development and e-government action, it continues to shape strategy today. The launch of national public OSPOs in France, Germany, the Czech Republic and the Netherlands, demonstrates alignment with the EU commitment to open source. The role of public OSPOs will be crucial as strategic stakeholders with the capacity to unlock value and strengthen collaboration at a national level.
+With interoperability emerging as a cornerstone of open source development and e-government action, it continues to shape strategy today. The creation of an OSPO for the Dutch Ministry of Interior and Kingdom Relations and the recent launches of national public OSPOs in France, Germany and the Czech Republic demonstrate national alignment with the EU commitment to open source. Public OSPOs will play a crucial role as strategic stakeholders with the capacity to unlock value and strengthen collaboration at a national level.
 
 View the full OSPO++ event keynote with Sachiko Muto [here](https://www.youtube.com/watch?v=IFOrECvQq5o).
