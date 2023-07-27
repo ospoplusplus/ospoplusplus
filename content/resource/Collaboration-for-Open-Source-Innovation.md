@@ -1,5 +1,5 @@
 ---
-title: "Collaboration for Open Source Innovation"
+title: "Collaborating for Open Source Innovation"
 date: 2023-03-24T19:12:26+06:00 
 draft: false
 image: images/resource/Collaboration-for-Open-Source-Innovation.png
