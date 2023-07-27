@@ -8,7 +8,7 @@ studies: "Article"
 ---
 
 
-At the recent OSPO++ ‘Open Source Innovation in Universities event’, Cindy Chepanoske (Director of Technology Licensing at the [Center for Technology Transfer and Enterprise Creation](https://www.cmu.edu/cttec/), [Carnegie Mellon University](https://www.cmu.edu/)); Jacob Green, (Founder of [OSPO++](https://ospoplusplus.org/)); Joe Doyle (IP Manager at [Enterprise Ireland](https://www.enterprise-ireland.com/en/)); John Whelan (ICT Research Commercialization Manager, [Open Source Program Office](https://www.tcd.ie/innovation/OSPO/), [Trinity College Dublin](https://www.tcd.ie/)); and Lucie Smolka (CEO, Open Cities) discussed collaboration in the context of open source innovation. The panel explored common themes emerging from their own organizations’ experience of collaboration at an institutional level either between universities, within academic-industry partnerships and even amongst cities.
+At the recent OSPO++ ‘Open Source Innovation in Universities event’, Cindy Chepanoske (Director of Technology Licensing at the [Center for Technology Transfer and Enterprise Creation](https://www.cmu.edu/cttec/), [Carnegie Mellon University](https://www.cmu.edu/)); Jacob Green, (Founder of [OSPO++](https://ospoplusplus.org/)); Joe Doyle (IP Manager at [Enterprise Ireland](https://www.enterprise-ireland.com/en/)); John Whelan (ICT Research Commercialization Manager, [Open Source Program Office](https://www.tcd.ie/innovation/OSPO/), [Trinity College Dublin](https://www.tcd.ie/)); and Lucie Smolka (CEO, [Open Cities](https://www.otevrenamesta.cz/)) discussed collaboration in the context of open source innovation. The panel explored common themes emerging from their own organizations’ experience of collaboration at an institutional level either between universities, within academic-industry partnerships and even amongst cities.
 
 ## Addressing the challenges of joint Intellectual Property 
 
@@ -18,11 +18,11 @@ The challenges of collaboration between universities was acknowledged during the
 
 John Whelan concurred with this approach when discussing [TerminusDB](https://terminusdb.com/), a start-up that was originally funded through Horizon Europe. The Knowledge Transfer Office at TCD successfully obtained permission from all parties to allow the project to spin-out as an open source based company using the CORE business model. “Joint IP is murder and open source gets over the problems of joint IP.”
 
-Whelan also referred to the importance of [Knowledge Transfer Ireland’s](https://www.knowledgetransferireland.com/) [catalog of template agreements](https://www.knowledgetransferireland.com/). Trinity College Dublin regularly signposts funders to these agreements. While commercial companies collaborating with universities are not legally bound to use these agreements, the catalog is representative of Government policy and good practice in this area. 
+Whelan also referred to the importance of [Knowledge Transfer Ireland’s](https://www.knowledgetransferireland.com/) [catalog of template agreements](https://www.knowledgetransferireland.com/Model-Agreements/Catalogue-of-Model-Agreements/). Trinity College Dublin regularly signposts funders to these agreements. While commercial companies collaborating with universities are not legally bound to use these agreements, the catalog is representative of Government policy and good practice in this area. 
 
-It was noted that a template for open source licenses has not been developed yet by Knowledge Transfer Ireland, which led to a call to action for an open source, intra-University collaboration to develop such a template.
+A template for open source licenses has not been developed by Knowledge Transfer Ireland and there was a call to action for an open source, intra-University collaboration to develop an open source model agreement.
 
-As IP manager with Enterprise Ireland, Joe Doyle explained that too often he is contacted to help a company address an IP issue after the fact, “[We’re called on] to try and put the toothpaste back into the tube somehow.”
+As IP manager with Enterprise Ireland, Joe Doyle explained that too often he is contacted to help a company address an IP issue after the fact, “[We’re called on] to try and put the toothpaste back into the tube.”
 
 Doyle outlined some common challenges for companies coming out of development programs that want to commercialize. In a number of cases, new companies may not understand the implications of the open source licenses they’ve already signed up to. Other companies may discover during the due diligence process that they don’t have the Manifest for open source code in their product. 
 
