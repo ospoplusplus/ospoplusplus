@@ -16,19 +16,19 @@ In her talk, Dillon explored the maturing field of open source, its impact beyon
 
 ## Open source has matured
 
-Open source code underpins the majority of technology in use. A deeper understanding of open source has developed with widespread agreement that open source “... is not just code.”
+Open source code underpins the majority of technology in use today at a global level. Alongside the expansion of open source, a deeper understanding of open source has emerged, leading to widespread agreement that open source “... is not just code.”
 
 “Open source can also mean the … tools, processes and culture built around software to enable it to process and deal with contributions from the community,” said Dillon. “In the last number of years, these ways of working have very much matured – so when you think about mature, responsible open source, there are a lot of people doing this in a very professionalized way.”
 
-One important example is open source hardware. From computers and electronics to machine tooling and medical devices, more open source hardware projects are being made available through the open-design movement – marking a clear progression of open source culture from just code. Importantly, the Free and Open Source Hardware community (FOSH) maintains that using an open source license is insufficient: For a project to be open source, it must follow the principles of open source, such as modular design or community collaboration. 
+One important example is open source hardware. From computers and electronics to machine tooling and medical devices, more open source hardware projects are being made available through the open-design movement – marking a clear progression of open source culture from code. Importantly, the Free and Open Source Hardware community (FOSH) maintains that using an open source license is insufficient: For a project to be open source, it must follow the principles of open source, such as modular design or community collaboration. 
 
-Open source hardware has emerged as a crucial field with innovations like 3D printing enabling the replication of various hardware designs around the world. This diversification confirms that open source is no longer confined to one domain but spans across various industries.
+Open source hardware has emerged as a crucial field with innovations like 3D printing enabling the replication of various hardware designs around the world. This diversification confirms that open source is no longer confined to one domain but spans a range of diverse various industries.
 
 ## Essential benefits of open source
 
 There is also a greater understanding of the economic value inherent in an open approach to research and innovation. More than any earnings from licensing or commercial distribution; real value and savings can be realized when organizations, universities and companies invest in and use open source.
 
-Several of these benefits have directly contributed to the maturity of open source - as a technology and as a movement:
+Several of these benefits have directly contributed to the maturity of open source - both as a technology and as a movement:
 
 - <b>Code reuse</b>: Modern technology demands complex stacks, and code reuse through open source has become essential to avoid duplicating efforts and resources.
 
