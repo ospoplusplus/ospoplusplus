@@ -22,7 +22,7 @@ Open source code underpins the majority of technology in use today at a global l
 
 One important example is open source hardware. From computers and electronics to machine tooling and medical devices, more open source hardware projects are being made available through the open-design movement – marking a clear progression from open source code to open source culture. Importantly, the Free and Open Source Hardware community (FOSH) maintains that using an open source license is insufficient - for a project to be open source, it must follow the principles of open source, such as modular design or community collaboration. 
 
-Open source hardware has emerged as a crucial field with innovations like 3D printing enabling the replication of various hardware designs around the world. This diversification confirms that open source is no longer confined to one domain but spans a range of diverse various industries.
+Open source hardware has emerged as a crucial field with innovations like 3D printing enabling the replication of various hardware designs around the world. This diversification confirms that open source is no longer confined to one domain but spans a range of diverse industries.
 
 ## Essential benefits of open source
 
@@ -69,6 +69,6 @@ Governments and institutions have begun to recognize the importance of open sour
 
 ## A progressively permanent shift
 
-Dillon’s talk on open source trends and evolution sheds light on the paradigm shift in perceptions and realities surrounding open source. It is no longer limited to a few developers working in isolation; instead, it has become a global phenomenon with diverse applications across industries. 
+Dillon’s talk on open source trends and evolution shed light on the paradigm shift in perceptions and realities surrounding open source. It is no longer limited to a few developers working in isolation; instead, open source has become a global phenomenon with diverse applications across industries. 
 
 The maturation of open source, its economic and social impact, and emerging policies in its favor all indicate that it will continue to shape the future of technology and beyond. Embracing the principles of open source is not just about adopting a particular software development approach; it is about joining a vibrant, diverse community that is dedicated to creating a better, more inclusive, and sustainable future for all.
