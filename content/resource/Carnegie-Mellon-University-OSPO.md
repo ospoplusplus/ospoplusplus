@@ -29,3 +29,5 @@ The OSPO is also working with Stephen Walli (Microsoft) to advance and teach <b>
 The office is building and participating in a number of strategic partnerships across the university. Its work with [CMU Cloud Lab](https://cloudlab.cmu.edu/) focuses on the role of open source software in automated science. Collaboration with the [Software Engineering Institute](https://www.sei.cmu.edu/) is also underway. The Institute has developed an early framework for assessing security issues, particularly related to the software supply chain. The OSPO will play a key role in incorporating considerations from the university or academic sector.  
 
 Carnegie Mellon University OSPO is also developing external academic partnerships and is co-leading a [CHAOSS](https://chaoss.community/) working group with UC Santa Cruz OSPO on university-focused metrics for open source software.
+
+This work is licensed under a Creative Commons Attribution 4.0 International License ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))

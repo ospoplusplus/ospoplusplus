@@ -26,3 +26,5 @@ Core activities include:
 - Establishing programs and infrastructure to track open source research activities throughout the UC system, including open source research funding, to estimate the value of open source projects and communities to the university.
 
 The OSPO plans to link in with the wider University of California and serve as a blueprint for other public universities seeking to set up OSPOs.
+
+This work is licensed under a Creative Commons Attribution 4.0 International License ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))

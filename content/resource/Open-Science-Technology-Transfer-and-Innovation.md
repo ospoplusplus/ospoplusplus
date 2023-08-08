@@ -79,3 +79,5 @@ As corporations seek new ways of measuring innovation within an open-by-default 
 The discussions to come are sure to be thought-provoking, ongoing and meaningful. They’re also central to the cohesive progression not only of research and development across public and private sectors, but also of societies on and off campuses. With such wide-reaching implications, openness seems the only smart place to start.
 
 View the full OSPO++ event talk with Sayeed Choudhury [here](https://www.youtube.com/watch?v=qUEEo8tBmYc).
+
+This work is licensed under a Creative Commons Attribution 4.0 International License ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))

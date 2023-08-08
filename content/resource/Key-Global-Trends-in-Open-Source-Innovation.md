@@ -72,3 +72,5 @@ Governments and institutions have begun to recognize the importance of open sour
 Dillon’s talk on open source trends and evolution shed light on the paradigm shift in perceptions and realities surrounding open source. It is no longer limited to a few developers working in isolation; instead, open source has become a global phenomenon with diverse applications across industries. 
 
 The maturation of open source, its economic and social impact, and emerging policies in its favor all indicate that it will continue to shape the future of technology and beyond. Embracing the principles of open source is not just about adopting a particular software development approach; it is about joining a vibrant, diverse community that is dedicated to creating a better, more inclusive, and sustainable future for all.
+
+This work is licensed under a Creative Commons Attribution 4.0 International License ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))

@@ -79,3 +79,5 @@ As key legislative bodies and public institutions implement OS policies; univers
 With interoperability emerging as a cornerstone of open source development and e-government action, it continues to shape strategy today. The creation of an OSPO for the Dutch Ministry of Interior and Kingdom Relations and the recent launches of national public OSPOs in France, Germany and the Czech Republic demonstrate national alignment with the EU commitment to open source. Public OSPOs will play a crucial role as strategic stakeholders with the capacity to unlock value and strengthen collaboration at a national level.
 
 View the full OSPO++ event keynote with Sachiko Muto [here](https://www.youtube.com/watch?v=IFOrECvQq5o).
+
+This work is licensed under a Creative Commons Attribution 4.0 International License ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))

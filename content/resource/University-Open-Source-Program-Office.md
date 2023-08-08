@@ -49,3 +49,5 @@ Perhaps most importantly, 2020 has been a challenging year on so many fronts ran
 _Sayeed Choudhury is the Associate Dean for Research Data Management and Hodson Director of the Digital Research and Curation Center at the Sheridan Libraries of Johns Hopkins University. He leads the University’s Open Source Programs Office. His full bio is available [here](https://members.educause.edu/sayeed-choudhury)._
 
 _Acknowledgements: Many people have offered invaluable advice and support to the JHU OSPO but it is important to note the role of MossLabs in particular. The JHU OSPO journey began with a seemingly innocent conversation with Jacob Green of MossLabs and has bloomed in amazing ways. It was Jacob’s inspiration to launch an OSPO at JHU._
+
+This work is licensed under a Creative Commons Attribution 4.0 International License ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))

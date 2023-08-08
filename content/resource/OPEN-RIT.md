@@ -27,3 +27,5 @@ Activities include:
 * Practical assistance for faculty and staff in the design and sustainability of Open Research that demonstrates clear alignment with both funding and university requirements.
 * Formal and applied research in Open Work, including Ford Foundation-funded qualitative studies of Open Communities, FOSS education, and the creation of Open Platforms for deaf education.
 
+This work is licensed under a Creative Commons Attribution 4.0 International License ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+

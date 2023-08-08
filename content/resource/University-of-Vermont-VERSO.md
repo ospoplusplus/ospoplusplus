@@ -35,3 +35,5 @@ All activities are informed by the need to develop a ‘talent pipeline’ of fu
 In the medium to long-term, the office anticipates working with the university on incentivization strategies for Open Access and Open Research.
 
 The [VERSO OSPO Playbook](https://verso.w3.uvm.edu/verso-playbook/) contains resources and shares learning about the evolution of the program. The playbook will continue to be updated to support the development of OSPOs across academia.
+
+This work is licensed under a Creative Commons Attribution 4.0 International License ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))

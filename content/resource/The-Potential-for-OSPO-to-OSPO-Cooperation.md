@@ -83,3 +83,5 @@ Part 9:   [Case Study:  SFNC, City of Paris, Johns Hopkins University](https://y
 
 
 [^1]: Special thanks to Red Hat's Brian Proffitt, Bryan Behrenshausen, and Ruth Suehle, for interviewing stakeholders, telling the story, and putting the case-study together.
+
+This work is licensed under a Creative Commons Attribution 4.0 International License ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
