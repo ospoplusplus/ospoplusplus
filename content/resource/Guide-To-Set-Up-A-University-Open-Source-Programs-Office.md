@@ -10,3 +10,5 @@ As open source software becomes more prevalent in academia; universities and aca
 
 [Guide To Set Up A University Open Source Program Office.pdf](/images/resource/Guide-To-Set-Up-A-University-Open-Source-Programs-Office.pdf)
 
+This work is licensed under a Creative Commons Attribution 4.0 International License ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+
