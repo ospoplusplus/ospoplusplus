@@ -3,7 +3,7 @@ title: "Trinity College Dublin OSPO"
 date: 2022-12-21T15:10:26+06:00 
 draft: false
 image: images/resource/Trinity-College-Dublin-OSPO.png
-author: Ciara Flanagan
+author: John Whelan and Ciara Flanagan
 studies: "Case Study"
 ---
 
