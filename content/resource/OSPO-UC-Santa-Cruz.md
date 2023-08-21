@@ -3,7 +3,7 @@ title: "OSPO UC Santa Cruz"
 date: 2022-12-22T16:10:26+06:00 
 draft: false
 image: images/resource/OSPO-UC-Santa-Cruz.png
-author: Ciara Flanagan
+author: Stephanie Lieggi and Ciara Flanagan
 studies: "Case Study"
 ---
 
