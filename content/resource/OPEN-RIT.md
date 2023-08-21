@@ -3,7 +3,7 @@ title: "Open@RIT"
 date: 2022-12-21T14:50:26+06:00
 draft: false
 image: images/resource/Open-RIT.png
-author: Ciara Flanagan
+author: Stephen Jacobs and Ciara Flanagan
 studies: "Case Study"
 ---
 
