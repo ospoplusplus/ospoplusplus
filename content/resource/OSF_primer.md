@@ -9,3 +9,5 @@ studies: "Document"
 ---
 
 OSPO++ in partnership with the US National Academies of Science, Engineering and Medicine have created the OSF primer on code and software, a toolkit for fostering Open Science Practices.
+
+This work is licensed under a Creative Commons Attribution 4.0 International License ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))

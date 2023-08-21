@@ -28,3 +28,5 @@ Core activities include:
 Open Source with SLU is in the process of developing partnerships with faculty at nearby universities and community organizations such as [LaunchCode](https://www.launchcode.org/) and [The Unity Foundation](https://unityfoundation.io/). The office is currently developing an IoT library for the Micronaut framework that the Unity Foundation supports. The office has also embraced an ecosystem of open source tools developed by SLU Research Computing built around linked open data standards, [RERUM](https://rerum.io/#/welcome). 
 
 At present, the inaugural cohort of 33 undergraduate students are close to completing the first cycle of the program. Over the longer-term, Open Source with SLU aims to become a trusted service provider for software development within the university and with community partners.
+
+This work is licensed under a Creative Commons Attribution 4.0 International License ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))

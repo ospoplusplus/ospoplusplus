@@ -74,3 +74,5 @@ An open source consortium functions like an incubator where research and develop
 While the reasons for making open source software vary widely within universities, it is clear that the growing interest in commercializing open source is increasingly influencing outcomes and next steps – largely fuelling the need for OSPOs in higher education and effective technology transfer processes.
 
 View the complete OSPO++ event talk with Andrew Wichmann [here](https://www.youtube.com/watch?v=qL1CPIdD6IM).
+
+This work is licensed under a Creative Commons Attribution 4.0 International License ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))

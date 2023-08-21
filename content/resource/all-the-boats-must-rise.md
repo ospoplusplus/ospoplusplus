@@ -29,3 +29,5 @@ And sadly still, some companies, some governments, and many activists continue t
 Tim O’Reilly, whose writings and conferences arguably popularized the Open Source movement, tells us that “the secret to happiness is to create more value than you capture”, and thus intrinsic generosity is also part of the “All Boats Must Rise” philosophy. Supporting the community means leaving opportunities of benefit (and influence) open, and continually giving back commensurate with the value you’ve derived.
 
 Open Source was founded on enlightened self interest, enthusiasm, and collective participation, and I have witnessed that it can create global change, and may be the best chance we have to combat the current global trend towards exclusion and self-protection (which lead quite directly to polarization and excessive nationalism), but only if we lead with the “All Boats Must Rise” nature of this movement.
+
+This work is licensed under a Creative Commons Attribution 4.0 International License ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))

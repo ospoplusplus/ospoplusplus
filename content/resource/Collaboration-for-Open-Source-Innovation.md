@@ -67,3 +67,5 @@ As institutional constructs, OSPOs also enable collaboration through the formati
 All agreed that as open source and open science gain traction and increasingly become the default, collaboration will continue to underpin successful OSS innovation, creation and maintenance.
 
 View the complete OSPO++ panel discussion [here](https://www.youtube.com/watch?v=GN5u4byOVFQ&ab_channel=OSPOPlusPlus).
+
+This work is licensed under a Creative Commons Attribution 4.0 International License ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
