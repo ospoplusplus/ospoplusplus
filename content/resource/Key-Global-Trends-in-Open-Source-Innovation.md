@@ -73,6 +73,6 @@ Dillon’s talk on open source trends and evolution shed light on the paradigm s
 
 The maturation of open source, its economic and social impact, and emerging policies in its favor all indicate that it will continue to shape the future of technology and beyond. Embracing the principles of open source is not just about adopting a particular software development approach; it is about joining a vibrant, diverse community that is dedicated to creating a better, more inclusive, and sustainable future for all.
 
-View the full OSPO++ event talk with Clare Dillon [here] (https://www.youtube.com/watch?v=5n-mT-VgwmI&t=152s).
+View the full OSPO++ event talk with Clare Dillon [here](https://www.youtube.com/watch?v=5n-mT-VgwmI&t=152s).
 
 This work is licensed under a Creative Commons Attribution 4.0 International License ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
