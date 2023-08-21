@@ -3,7 +3,7 @@ title: "Johns Hopkins University OSPO"
 date:  2022-12-21T15:18:26+06:00
 draft: false
 image: images/resource/Johns-Hopkins University-OSPO.png 
-author:  Ciara Flanagan
+author:  Sayeed Choudhury and Ciara Flanagan
 studies: "Case Study"
 ---
 
