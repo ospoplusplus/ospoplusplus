@@ -1,7 +1,7 @@
 ---
 title: "Key Global Trends in Open Source Innovation"
 date: 2023-03-24T19:25:26+06:00 
-draft: false
+draft: true
 image: images/resource/Key-Global-Trends-in-Open-Source-Innovation.png
 author: Clare Dillon, Colleen Maloney and Ciara Flanagan
 studies: "Article"
