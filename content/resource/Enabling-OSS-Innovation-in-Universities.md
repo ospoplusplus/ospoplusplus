@@ -35,7 +35,7 @@ Tierney cited an example of a project from [Trinity Biomedical Sciences Institut
 
 Tierney also spoke about educating the research community collectively within Trinity on using and bringing open source into their projects. “There are certain disciplines like natural language processing or computer science that are more familiar with open source,” she said. “But we’re seeing that organizations like Horizon Europe are pushing for interdisciplinary research, so we’re bringing together people from traditional fields, for example, life sciences or biology or engineering, and [we’re] supporting them to work collaboratively. Open source and open policy facilitate that.”
 
-As interdisciplinary collaboration gains traction, it will open more doors for collaborations that bridge the gap between researchers, institutions and funders. However, success hinges on all parties involved gaining better understanding and clarity around releasing and licensing open source.
+As interdisciplinary collaboration gains traction, it will open more doors for collaborations that bridge the gap between researchers, institutions and funders. However, success hinges on all parties involved gaining better understanding and clarity on releasing and licensing open source.
 
 An example of this came up when Choudhury referenced a project he was closely involved in with [John Hopkins University’s OSPO](https://drcc.library.jhu.edu/open-source-programs-office/) and the city of Paris on an open source municipal service platform. Working with a local community center, the team built a demonstration of how the center could use the platform, following the allowances in the open source license. When the legal questions came, Choudhury pointed to the license.
 
