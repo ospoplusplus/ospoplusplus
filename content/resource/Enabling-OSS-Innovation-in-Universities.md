@@ -70,3 +70,5 @@ Everyone agreed that metrics are good as long as they drive the right behavior, 
 One point everyone agreed on was that while the reasons for developing open source innovation in universities are varied and important; OSPOs are a key enabler and therefore, are essential to its evolution over the years to come.
 
 View the complete OSPO++ panel discussion [here](https://www.youtube.com/watch?v=vdFdd4tK4RQ).
+
+This work is licensed under a Creative Commons Attribution 4.0 International License ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
